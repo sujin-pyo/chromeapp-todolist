@@ -36,9 +36,10 @@ input {
   width: 320px;
   padding: 10px;
   border: none;
+  color: floralwhite;
   background-color: transparent;
   outline: none;
-  border-bottom: 3px solid black;
+  border-bottom: 3px solid floralwhite;
 }
 input::placeholder {
   color: #444444;
